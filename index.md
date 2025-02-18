@@ -8,9 +8,9 @@ Previously, I completed my B.S. in School of Electrical Engineering at Hanyang U
 ### Publications
 
 * **K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor**<br>
-<ins>Jeonghun Cho</ins><br>, and Gary Geunbae Lee
+<ins>Jeonghun Cho</ins>, and Gary Geunbae Lee<br>
 Proceedings of NAACL 2025. [[paper](https://arxiv.org/abs/2501.13567)]
 
 * **Medical Domain Retrieval-Augmented Question Answering through Entity-based Context Extraction**<br>
-<ins>Jeonghun Cho</ins><br>, and Gary Geunbae Lee
+<ins>Jeonghun Cho</ins>, and Gary Geunbae Lee<br>
 (Best Paper) Proceedings of KCC 2024. [[paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861871)]
