@@ -13,4 +13,5 @@ Proceedings of NAACL 2025. [[paper](https://arxiv.org/abs/2501.13567)]
 
 * **Medical Domain Retrieval-Augmented Question Answering through Entity-based Context Extraction**<br>
 <ins>Jeonghun Cho</ins>, and Gary Geunbae Lee<br>
-(Best Paper) Proceedings of KCC 2024. [[paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861871)]
+Proceedings of KCC 2024. [[paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861871)]
+(Best Paper)
