@@ -3,4 +3,4 @@ I am a M.S. student in [Natural Language Processing Group (NLP) group](https://n
 
 Beyond reasoning agents, my research interests extend to retrieval-augmented generation (RAG) and question-answering in the medical domain. I am particularly captivated by the challenge of facilitating human interaction.
 
-Previously, I completed my B.E. in School of Electrical Engineering at Hanyang University ERICA.
+Previously, I completed my B.S. in School of Electrical Engineering at Hanyang University ERICA.
