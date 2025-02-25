@@ -8,12 +8,12 @@ Beyond reasoning agents, my research interests extend to retrieval-augmented gen
 
 * **Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation**<br>
 Deokhyung Kang\*, <ins>Jeonghun Cho</ins>\*, Yejin Jeon, Sunbin Jang, Minsub Lee, Jawoon Cho, and Gary Geunbae Lee<br>
-Preprint. [[paper](https://arxiv.org/abs/2502.16529)]
+Preprint. <a href="https://arxiv.org/abs/2502.16529" target="_blank">[paper]</a><br>
 
 * **K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor**<br>
 <ins>Jeonghun Cho</ins> and Gary Geunbae Lee<br>
-Proceedings of NAACL 2025. [[paper](https://arxiv.org/abs/2501.13567)]
+Proceedings of NAACL 2025. <a href="https://arxiv.org/abs/2501.13567" target="_blank">[paper]</a><br>
 
 * **Medical Domain Retrieval-Augmented Question Answering through Entity-based Context Extraction**<br>
 <ins>Jeonghun Cho</ins> and Gary Geunbae Lee<br>
-Proceedings of KCC 2024. **(Best Paper)** [[paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861871)]<br>
+Proceedings of KCC 2024. **(Best Paper)** <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861871" target="_blank">[paper]</a><br>
