@@ -1,10 +1,10 @@
 ### About Me
-I am a M.S. student in [Natural Language Processing Group (NLP) group](https://nlp.postech.ac.kr/), working with [Prof. Gary Geunbae Lee](https://scholar.google.com/citations?user=t30saScAAAAJ&hl) at POSTECH. My primary research interest lies in reasoning, particularly in code generation. I aim to enhance interactive reasoning agents through human collaboration.
+I am a M.S. student in [Natural Language Processing (NLP) Group](https://nlp.postech.ac.kr/), working with [Prof. Gary Geunbae Lee](https://sites.google.com/view/gary-geunbae-lee/) and [Prof. Hyounghun Kim](https://hyounghk.github.io/) at POSTECH. My primary research interest lies in reasoning, particularly in code generation. I aim to enhance interactive reasoning agents through human collaboration.
 
 Beyond reasoning agents, my research interests extend to retrieval-augmented generation (RAG) and question-answering in the medical domain. I am particularly captivated by the challenge of facilitating human interaction.
 
 
-### Publications
+### Publications ([Google Scholar](https://scholar.google.com/citations?user=PwdC6ewAAAAJ&hl))
 
 * **Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation**<br>
 Deokhyung Kang\*, <ins>Jeonghun Cho</ins>\*, Yejin Jeon, Sunbin Jang, Minsub Lee, Jawoon Cho, and Gary Geunbae Lee<br>
