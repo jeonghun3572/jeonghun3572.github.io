@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <link href="./assets/css/github-light.css" rel="stylesheet">
-    <link href="./assets/css/style.css" rel="stylesheet">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <script src="/Blog/pace/pace.js"></script>
+    <link href="/Blog/pace/themes/blue/pace-theme-minimal.css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -15,12 +17,13 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
         <p> 
           {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" />
           {% endif %}
         </p>
-
+        
         <p class="view">
           <a href="mailto:jeonghuncho@postech.ac.kr">Email</a>
           <br>
