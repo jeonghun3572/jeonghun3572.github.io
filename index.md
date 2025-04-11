@@ -12,8 +12,8 @@ Preprint. [[paper](https://arxiv.org/abs/2502.16529)]<br>
 
 * K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor<br>
 <ins>Jeonghun Cho</ins> and Gary Geunbae Lee<br>
-Proceedings of NAACL 2025. [[paper](https://arxiv.org/abs/2501.13567)]<br>
+Proceedings of NAACL 2025. [[paper](https://arxiv.org/abs/2501.13567)][[code](https://github.com/jeonghun3572/K-COMP)]<br>
 
 * Medical Domain Retrieval-Augmented Question Answering through Entity-based Context Extraction<br>
 <ins>Jeonghun Cho</ins> and Gary Geunbae Lee<br>
-Proceedings of KCC 2024. (Best Paper) [[paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861871)]<br>
+Proceedings of KCC 2024. (Best Paper, Top 1.7%) [[paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861871)][[code](https://github.com/jeonghun3572/Entity-based-RAG)]<br>
