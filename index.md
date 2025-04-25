@@ -1,7 +1,7 @@
 ### About
 I am a M.S. student in [Natural Language Processing (NLP) Group](https://nlp.postech.ac.kr/), working with [Prof. Gary Geunbae Lee](https://sites.google.com/view/gary-geunbae-lee/) and [Prof. Hyounghun Kim](https://hyounghk.github.io/) at POSTECH.
 
-My current research focuses on reasoning agents. In addition, I explore retrieval-augmented generation and question answering. My goal is to enhance interactive agents through human collaboration.
+My current research focuses on reasoning agents. In addition, I explore retrieval-augmented generation and question answering.
 
 
 ### Publications ([Google Scholar](https://scholar.google.com/citations?user=PwdC6ewAAAAJ&hl))
