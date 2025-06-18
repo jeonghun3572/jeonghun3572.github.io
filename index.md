@@ -10,7 +10,7 @@ Preprint. [[paper](https://arxiv.org/abs/2505.23060)][[code](https://github.com/
 
 * Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation<br>
 Deokhyung Kang\*, <ins>Jeonghun Cho</ins>\*, Yejin Jeon, Sunbin Jang, Minsub Lee, Jawoon Cho, and Gary Geunbae Lee<br>
-Proceedings of ACL 2025. [[paper](https://arxiv.org/abs/2502.16529)] [[press](https://www.mk.co.kr/en/business/11345175)]<br>
+Proceedings of ACL 2025. [[paper](https://arxiv.org/abs/2502.16529)][[press](https://www.mk.co.kr/en/business/11345175)]<br>
 
 * K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor<br>
 <ins>Jeonghun Cho</ins> and Gary Geunbae Lee<br>
