@@ -6,7 +6,7 @@ My current research focuses on reasoning agents. In addition, I explore retrieva
 ### Publications ([Google Scholar](https://scholar.google.com/citations?user=PwdC6ewAAAAJ&hl))
 * Self-Correcting Code Generation Using Small Language Models<br>
 <ins>Jeonghun Cho</ins>, Deokhyung Kang, Hyounghun Kim, and Gary Geunbae Lee<br>
-arXiv preprint arXiv:2505.23060. [[paper](https://arxiv.org/abs/2505.23060)][[code](https://github.com/jeonghun3572/CoCoS)]<br>
+Findings of EMNLP 2025. [[paper](https://arxiv.org/abs/2505.23060)][[code](https://github.com/jeonghun3572/CoCoS)]<br>
 
 * Retrieval-Augmented Fine-Tuning With Preference Optimization For Visual Program Generation<br>
 Deokhyung Kang\*, <ins>Jeonghun Cho</ins>\*, Yejin Jeon, Sunbin Jang, Minsub Lee, Jawoon Cho, and Gary Geunbae Lee<br>
