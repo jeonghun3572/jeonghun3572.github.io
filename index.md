@@ -1,7 +1,11 @@
 ### About
-I'm an M.S. student in the [Natural Language Processing (NLP) Group](https://nlp.postech.ac.kr/), working with [Prof. Gary Geunbae Lee](https://sites.google.com/view/gary-geunbae-lee/) and [Prof. Hyounghun Kim](https://hyounghk.github.io/) at POSTECH. Before joining POSTECH, I completed a B.S. degree in Electrical Engineering at Hanyang University ERICA.
+I am a researcher in Natural Language Processing (NLP). I received my M.S. degree in the [Natural Language Processing Group](https://nlp.postech.ac.kr/), where I worked with [Prof. Gary Geunbae Lee](https://sites.google.com/view/gary-geunbae-lee/) and [Prof. Hyounghun Kim](https://hyounghk.github.io/) at POSTECH. Before that, I completed a B.S. degree in Electrical Engineering at Hanyang University ERICA.
 
-My current research focuses on reasoning agents. In addition, I explore retrieval-augmented generation and question answering.
+My current research focuses on reasoning (e.g., mathematics and coding) and retrieval-augmented generation.
+
+### Education
+* M.S. in Artificial Intelligence, POSTECH, 2023 - 2025
+* B.S. in Electrical Engineering, Hanyang University ERICA, 2018 - 2023
 
 ### Publications ([Google Scholar](https://scholar.google.com/citations?user=PwdC6ewAAAAJ&hl))
 * Self-Correcting Code Generation Using Small Language Models<br>
