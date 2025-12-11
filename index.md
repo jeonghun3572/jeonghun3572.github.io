@@ -25,3 +25,7 @@ Proceedings of KCC 2024. (Best Paper, Top 1.7%) [[paper](https://www.dbpia.co.kr
 ### Education
 * M.S. in Artificial Intelligence, POSTECH, 2023 - 2025
 * B.S. in Electrical Engineering, Hanyang University ERICA, 2018 - 2023
+
+<br>
+<br>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=2a81SHYndMYas2FjbdQs3pYkxrVXAEi-QM9ZIutquk0'></script>
