@@ -28,4 +28,4 @@ Proceedings of KCC 2024. (Best Paper, Top 1.7%) [[paper](https://www.dbpia.co.kr
 
 <br>
 <br>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=2a81SHYndMYas2FjbdQs3pYkxrVXAEi-QM9ZIutquk0'></script>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=n&d=2a81SHYndMYas2FjbdQs3pYkxrVXAEi-QM9ZIutquk0"></script>
