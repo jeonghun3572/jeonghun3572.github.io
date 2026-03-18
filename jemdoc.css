@@ -5,14 +5,24 @@ body {
   font-family: Georgia, serif;
   padding-bottom: 8px;
   margin: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 /* --- Layout --- */
+html {
+  height: 100%;
+  width: 100%;
+}
 
 table#tlayout {
   border: none;
   border-collapse: separate;
   background: white;
+  height: 100%;
+  flex: 1;
 }
 
 #layout-menu {
