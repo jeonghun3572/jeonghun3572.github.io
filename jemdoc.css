@@ -55,6 +55,10 @@ table#tlayout {
   flex-direction: column;
 }
 
+.content-body {
+  flex: 1;
+}
+
 /* --- Menu --- */
 
 #layout-menu a {
@@ -328,7 +332,6 @@ div#footer {
   padding-top: 0.1em;
   margin-top: auto;
   color: #c0c0c0;
-
 }
 
 div#footer a {
