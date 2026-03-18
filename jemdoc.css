@@ -13,7 +13,6 @@ table#tlayout {
   border: none;
   border-collapse: separate;
   background: white;
-  width: 100%;
 }
 
 #layout-menu {
@@ -42,7 +41,6 @@ table#tlayout {
   background: white;
   text-align: left;
   vertical-align: top;
-  width: 100%;
 }
 
 /* --- Menu --- */
@@ -123,7 +121,7 @@ h3 {
 
 p {
   margin-top: 0.0em;
-  margin-bottom: 1.0em;
+  margin-bottom: 0.8em;
   padding: 0;
   line-height: 1.3;
 }
@@ -179,10 +177,14 @@ div#subtitle {
 
 /* --- Lists --- */
 
+li {
+  margin-bottom: 1.0em;
+}
+
 ul, ol, dl {
   margin-top: 0.2em;
   padding-top: 0;
-  margin-bottom: 1.1em;
+  margin-bottom: 0.8em;
 }
 
 ul {
@@ -208,7 +210,7 @@ p + ul, p + ol {
 }
 
 li ul, li ol {
-  margin-top: 0.0em;
+  margin-top: -0.3em;
 }
 
 li p, dd p {
