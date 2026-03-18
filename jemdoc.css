@@ -13,6 +13,7 @@ table#tlayout {
   border: none;
   border-collapse: separate;
   background: white;
+  width: 100%;
 }
 
 #layout-menu {
@@ -41,6 +42,7 @@ table#tlayout {
   background: white;
   text-align: left;
   vertical-align: top;
+  width: 100%;
 }
 
 /* --- Menu --- */
