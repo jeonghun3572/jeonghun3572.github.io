@@ -302,6 +302,7 @@ span.builtin   { color: #000088; }
 span.special   { color: #990000; }
 span.operator  { color: #880000; }
 span.error     { color: #aa0000; }
+span.award     { color: #ff0000; }
 
 span.comment, span.comment > *,
 span.string, span.string > * {
