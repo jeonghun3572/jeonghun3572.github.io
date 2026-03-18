@@ -2,16 +2,16 @@
 
 html {
   height: 100%;
-  width: 95%;
+  width: 100%;
 }
 
 body {
   background: white;
-  font-family: AppleGothic, serif;
+  font-family: AppleGothic, Georgia, serif;
   padding-bottom: 8px;
   margin: 0;
   height: 100%;
-  width: 95%;
+  width: 100%;
 }
 
 /* --- Layout --- */
@@ -49,7 +49,7 @@ table#tlayout {
   background: white;
   text-align: left;
   vertical-align: top;
-  width: 95%;
+  width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
