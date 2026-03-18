@@ -48,7 +48,7 @@ table#tlayout {
   background: white;
   text-align: left;
   vertical-align: top;
-  width: 100%;
+  width: auto;
   height: 100%;
   display: flex;
   flex-direction: column;
