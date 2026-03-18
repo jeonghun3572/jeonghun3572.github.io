@@ -30,7 +30,7 @@ table#tlayout {
   padding-left: 8px;
   padding-right: 8px;
   font-size: 1.0em;
-  width: auto;
+  width: 100%;
   white-space: nowrap;
   text-align: left;
   vertical-align: top;
