@@ -49,7 +49,7 @@ table#tlayout {
   background: white;
   text-align: left;
   vertical-align: top;
-  width: auto;
+  width: 95%;
   height: 100%;
   display: flex;
   flex-direction: column;
