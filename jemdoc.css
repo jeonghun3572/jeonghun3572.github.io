@@ -41,6 +41,7 @@ table#tlayout {
   background: white;
   text-align: left;
   vertical-align: top;
+  width: 100%;
 }
 
 /* --- Menu --- */
