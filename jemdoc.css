@@ -373,6 +373,14 @@ img.eqwl {
   margin-bottom: 0.5em;
 }
 
+/* --- Paper highlight --- */
+
+.highlight-paper {
+  background-color: #fff9c4;
+  border-radius: 4px;
+  transition: background-color 1.5s ease;
+}
+
 /* --- Print --- */
 
 @media print {
