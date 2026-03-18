@@ -162,6 +162,12 @@ div#toptitle h1,
   border-bottom: none;
 }
 
+div#toptitle p {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #527bbd;
+}
+
 div#subtitle {
   margin-top: 0.0em;
   margin-bottom: 0.0em;
@@ -176,20 +182,19 @@ div#subtitle {
 }
 
 /* --- Lists --- */
-
 li {
-  margin-bottom: 1.0em;
+  margin-bottom: 0.5em;
 }
 
 ul, ol, dl {
-  margin-top: 0.2em;
-  padding-top: 0;
-  margin-bottom: 0.8em;
+	margin-top: 0.2em;
+	padding-top: 0;
+	margin-bottom: 0.8em;
 }
 
 ul {
-  list-style-position: outside;
-  list-style-type: square;
+	list-style-position: outside;
+	list-style-type: square;
 }
 
 ol {
